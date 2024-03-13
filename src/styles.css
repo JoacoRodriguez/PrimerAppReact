@@ -1,0 +1,12 @@
+html, body{
+    color: white;
+    background-color: rgb(39, 35, 35);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    margin: 40px;
+    padding: 40px;
+}
